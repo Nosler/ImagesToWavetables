@@ -65,3 +65,13 @@ Enable audio on the master chanel, open alsamixer and raise the volume of “mas
 Test the guest’s audio:
 		
 ` > speaker-test `
+
+-----
+
+Disclaimer:
+This project was done for CIS 422 in Winter 2018 at the University of Oregon, and was completed by a team of six of which I was a member. 
+
+Due to hardware failure and no longer being able to access the BitBucket repository we originally used, the code hosted here was copied from a backup of the final verison another team member had.
+
+All files here were copied from this repository with the owner's permission: 
+https://github.com/Touchette/Images-to-Wavetables
